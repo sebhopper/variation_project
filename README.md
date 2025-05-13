@@ -53,12 +53,11 @@ Save the output JSON files in the ./output directory.
 ## Output
 The script generates JSON files for each combination of sample size and bootstrap iteration. The files are saved in the specified output directory with the naming convention:
 
-```file
-<gene>_<sample_size>_<bootstrap>.json
-```
+`<gene>_<sample_size>_<bootstrap>.json`
+
 Examples:
-A_50_50.json
-A_100_60.json
+- A_50_50.json
+- A_100_60.json
 
 ## Contact
 For questions or feedback, please contact Sebastian Hopper.
