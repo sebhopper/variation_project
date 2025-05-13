@@ -42,7 +42,7 @@ output: The directory where the output files will be saved.
 Example
 
 ```bash
-python -m variation_project HLA-A nuc 500 ./data ./output
+python -m variation_project A nuc 500 ./data ./output
 ```
 
 This command will:
