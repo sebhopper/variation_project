@@ -56,7 +56,7 @@ The script generates JSON files for each combination of sample size and bootstra
 <gene>_<sample_size>_<bootstrap>.json
 
 Examples:
-A_50_50.json
+A_50_50.json \n
 A_100_60.json
 
 ## Contact
