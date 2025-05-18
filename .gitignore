@@ -1,3 +1,4 @@
 alignments/
 utils/alignment_parsing.py
 __pycache__/
+venv/
